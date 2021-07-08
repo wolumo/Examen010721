@@ -115,6 +115,7 @@
             this.btnAceptar.TabIndex = 9;
             this.btnAceptar.Text = "Aceptar";
             this.btnAceptar.UseVisualStyleBackColor = true;
+            this.btnAceptar.Click += new System.EventHandler(this.btnAceptar_Click);
             // 
             // btnCalcular
             // 
@@ -152,6 +153,7 @@
             this.Controls.Add(this.dataGridView1);
             this.Name = "CrearPrestamos";
             this.Text = "CrearPrestamos";
+            this.Load += new System.EventHandler(this.CrearPrestamos_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

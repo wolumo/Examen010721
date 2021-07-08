@@ -10,3 +10,15 @@ C:\Users\JADPA18\source\repos\examenWiston\examenWiston\obj\Debug\examenWiston.c
 C:\Users\JADPA18\source\repos\examenWiston\examenWiston\obj\Debug\examenWiston.csproj.CoreCompileInputs.cache
 C:\Users\JADPA18\source\repos\examenWiston\examenWiston\obj\Debug\examenWiston.exe
 C:\Users\JADPA18\source\repos\examenWiston\examenWiston\obj\Debug\examenWiston.pdb
+C:\Users\MSI\Source\Repos\Examen010721\examenWiston\examenWiston\bin\Debug\examenWiston.exe.config
+C:\Users\MSI\Source\Repos\Examen010721\examenWiston\examenWiston\bin\Debug\examenWiston.exe
+C:\Users\MSI\Source\Repos\Examen010721\examenWiston\examenWiston\bin\Debug\examenWiston.pdb
+C:\Users\MSI\Source\Repos\Examen010721\examenWiston\examenWiston\obj\Debug\examenWiston.csproj.AssemblyReference.cache
+C:\Users\MSI\Source\Repos\Examen010721\examenWiston\examenWiston\obj\Debug\examenWiston.CrearPrestamos.resources
+C:\Users\MSI\Source\Repos\Examen010721\examenWiston\examenWiston\obj\Debug\examenWiston.menuMDI.resources
+C:\Users\MSI\Source\Repos\Examen010721\examenWiston\examenWiston\obj\Debug\examenWiston.PrestamosVisualicer.resources
+C:\Users\MSI\Source\Repos\Examen010721\examenWiston\examenWiston\obj\Debug\examenWiston.Properties.Resources.resources
+C:\Users\MSI\Source\Repos\Examen010721\examenWiston\examenWiston\obj\Debug\examenWiston.csproj.GenerateResource.cache
+C:\Users\MSI\Source\Repos\Examen010721\examenWiston\examenWiston\obj\Debug\examenWiston.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Source\Repos\Examen010721\examenWiston\examenWiston\obj\Debug\examenWiston.exe
+C:\Users\MSI\Source\Repos\Examen010721\examenWiston\examenWiston\obj\Debug\examenWiston.pdb

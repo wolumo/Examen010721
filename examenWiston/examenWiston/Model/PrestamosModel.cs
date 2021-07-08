@@ -28,5 +28,9 @@ namespace examenWiston.Model
             prestamos = tmp;
             Console.WriteLine("Se creo");
         }
+        public Prestamos[] getAll()
+        {
+            return prestamos;
+        }
     }
 }

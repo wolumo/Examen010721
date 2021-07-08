@@ -1,4 +1,5 @@
-﻿using System;
+﻿using examenWiston.Model;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,14 +13,18 @@ namespace examenWiston
 {
     public partial class menuMDI : Form
     {
+        public PrestamosModel prestamosModel { get; set; }
         public menuMDI()
         {
             InitializeComponent();
+            prestamosModel = new PrestamosModel();
         }
+       
 
         private void PrestamosToolStripMenuItem_Click(object sender, EventArgs e)
         {
             PrestamosVisualicer prestamosVisualicer = new PrestamosVisualicer();
+            prestamosVisualicer.prestamosModel = prestamosModel;
             prestamosVisualicer.MdiParent = this;
             prestamosVisualicer.Show();
         }
